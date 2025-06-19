@@ -2,3 +2,14 @@
    margin: 0px;
    padding: 0px;
  }
+h1{
+    font-size: 2em;
+    color: #333;
+    text-align: center;
+    margin-top: 20px;
+}
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
