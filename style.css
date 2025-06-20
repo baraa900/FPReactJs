@@ -15,5 +15,10 @@ body{
  li{
   font-size: 25px;
  }
+ nav{
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+ }
 
 
